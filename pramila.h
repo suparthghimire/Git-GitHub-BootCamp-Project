@@ -1,0 +1,3 @@
+void pramila(){
+	printf("helloo");
+}
